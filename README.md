@@ -1,6 +1,6 @@
 # Projects
 
-A collection of all my practice projects with the aim to improve my web dev skills with special focus on Front-End.
+A collection of all my practice projects, putting to use all the languages and frameworks I've learned so far.
 
 # INDEX
 <table>
